@@ -1,0 +1,8 @@
+:root { color-scheme: dark; }
+body { margin: 0; background: #14110f; color: #e9e2d6; font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { color: #f2a33a; margin-bottom: 4px; }
+h2 { color: #f2c27a; margin-top: 32px; }
+a { color: #f2a33a; }
+.muted { color: #9a9085; font-size: 15px; }
+nav a { margin-right: 16px; }
